@@ -1,3 +1,6 @@
 # Cool-cursor
 
-A simple canvas created with HTML, CSS and JavaScript
+A really cool cursor website made with canvas in javascript.
+
+## Screenshot
+<img src="Cool-cursor.png">
